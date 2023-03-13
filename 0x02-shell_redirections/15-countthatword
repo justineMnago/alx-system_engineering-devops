@@ -1,2 +1,2 @@
 #!/bin/bash
-mv "[[:upper:]]"* /etc/passwd
+mv [[:upper:]]* /etc/passwd
