@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ap | sort -v | paste -sd","
+ls -pmav
